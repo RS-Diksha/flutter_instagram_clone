@@ -15,7 +15,7 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - Sign Out
 
 ## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/BBccK1zTgxw) 
+I have learned through this project use of flutter and firebase [Rivaan Ranawat]
 
 <p align="center">
   <img width="600" src="https://github.com/RivaanRanawat/instagram-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
